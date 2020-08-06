@@ -1,0 +1,25 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000p\u0000r\u0000o\u0000f\u0000f\u0000y\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillMS28/proffy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WillMS28/proffy/issues"
+  },
+  "homepage": "https://github.com/WillMS28/proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.2"
+  },
+  "devDependencies": {
+    "install": "^0.13.0",
+    "nodemon": "^2.0.4"
+  }
+}
