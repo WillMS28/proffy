@@ -1,0 +1,117 @@
+#page-conclusion {
+    
+    background-color: var(--color-primary);
+    background-image: url("/images/success-background.svg");
+    width: 100vw;
+    height: 100vh;
+
+}
+
+
+#page-conclusion .textcenter {
+  
+    height: 24rem;
+    width: 100%;
+
+    color: var(--color-button-text);
+
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+#page-conclusion .textcenter h1 {
+    font: 700 6.4rem Poppins;
+} 
+
+#page-conclusion .textcenter p {
+    font: 400 2rem Poppins;    
+}
+
+#page-conclusion .button-list{
+    width: 100%;
+    margin-top: 4rem;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#page-conclusion .button-list a {
+
+
+
+    background-color: var(--color-secondary);
+    color: var(--color-button-text);
+    width: 28rem;
+    height: 10.4rem;
+    
+    border-radius: 0.8rem;
+
+
+    
+    font: 700 2.4rem Poppins;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+    text-decoration: none;
+
+    transition: background 0.2s;
+
+    color: var(--color-button-text);
+}
+
+/* #page-conclusion .button-list a {
+    justify-content: center;
+} */
+
+#page-conclusion .button-list a:hover {
+    background-color: var(--color-secondary-dark);
+}
+
+@media (max-width: 600px ) {
+    #page-conclusion .textcenter { 
+        height: 20rem;
+    }
+
+    #page-conclusion .textcenter h1 {
+        font: 700 3.4rem Poppins;
+    } 
+    
+    #page-conclusion .textcenter p {
+        font: 400 1.4rem Poppins;    
+    }
+
+    #page-conclusion .button-list a {
+        width: 18rem;
+        height: 6.4rem;
+
+        font-size: 1.4rem;
+    }
+}
+
+/* @media (max-width: 700px ) {
+    #page-conclusion .textcenter { 
+        height: 23rem;
+    }
+
+    #page-conclusion .textcenter h1 {
+        font: 700 3.9rem Poppins;
+    } 
+    
+    #page-conclusion .textcenter p {
+        font: 400 1.9rem Poppins;    
+    }
+
+    #page-conclusion .button-list a {
+        width: 16rem;
+        height: 7.4rem;
+
+        font-size: 1.9rem;
+    }
+} */

@@ -6,7 +6,8 @@ const {
     pageLanding,
     pageStudy, 
     pageGiveClasses,
-    saveClasses 
+    saveClasses,
+    pageConclusion
 } = require('./pages')
 
 // importanto a lib nunjucks
@@ -26,5 +27,6 @@ server
 .get("/", pageLanding)
 .get("/study", pageStudy)
 .get("/give-classes", pageGiveClasses)
+.get("/conclusion", pageConclusion) // adicão de um nova pagina
 .post("/save-class", saveClasses)
 .listen(5500)
