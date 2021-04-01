@@ -19,7 +19,7 @@ A aplicação pode ser iniciada usando o comando "npm run dev", ela será inicia
  "http://localhost:5500/"
 
 
-![A2020-11-17 00-25-14 00_01_15-00_01_28 00_00_00-00_00_30](https://user-images.githubusercontent.com/66925214/99343427-a2edbb00-286c-11eb-98d6-8de5f72362eb.gif)
+![Buscando Aulas](https://user-images.githubusercontent.com/66925214/99343427-a2edbb00-286c-11eb-98d6-8de5f72362eb.gif)
 
-![A2020-11-17 00-25-14 00_00_09-00_00_53 00_00_00-00_00_30](https://user-images.githubusercontent.com/66925214/99343456-b567f480-286c-11eb-882a-3cc3981de1b1.gif)
+![Cadastrando disponibilidade de dar aulas](https://user-images.githubusercontent.com/66925214/99343456-b567f480-286c-11eb-882a-3cc3981de1b1.gif)
 
