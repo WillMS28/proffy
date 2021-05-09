@@ -1,6 +1,6 @@
 # Projeto PROFFY
 
-Desenvolvido junto ao Next Level Week, da Rocketseat, com o objetivo de ampliar os conhecimentos em programação e desenvolvimento de aplicações usando Javascrip juntamente com HTML, CSS e NodeJS.
+Desenvolvido junto ao Next Level Week, da Rocketseat, com o objetivo de ampliar os conhecimentos em programação e desenvolvimento de aplicações usando Javascrip juntamente com HTML, CSS e NodeJS e Layouts Responsivos.
 
 Nesse projeto específico, a ideia é dar ao cliente uma maneira de busca por professores independentes para contratação de seus serviços. Tais professores que podem se cadastrar, permitindo serem encontrados posteriormente por alunos, através dos parâmetros fornecidos de disciplina, horário e dia da semana.
 Páginas contidas na aplicação:
